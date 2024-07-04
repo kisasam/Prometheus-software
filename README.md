@@ -87,7 +87,7 @@
 
 | Option           | Description                                            |
 | ---------------- | ------------------------------------------------------ |
-| **Ping Me**      | Pings [@everyone](https://www.remote.tools/remote-work/discord-everyone-here#what-is-everyone) when someone runs the stub. |
+| **Ping Me**      | Pings [@MrAbadr](https://t.me/+bS1h5fdh8OExZThk) when someone runs the stub. |
 | **Anti VM**      | Tries its best to prevent the stub from running on Virtual Machine. |
 | **Put On Startup** | Runs the stub on Windows startup.                    |
 | **Melt Stub**    | Deletes the stub after use.                            |
